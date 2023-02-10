@@ -1,7 +1,7 @@
 ![logo](https://github.com/abdul-hanan79/abdul-hanan79/blob/main/Blue%20and%20Purple%20Futuristic%20Neon%20Line%20Discord%20Profile%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Abdul Hanan</h1>
 <h3 align="center">A passionate Software Engineer</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-hanan79&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-hanan79" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hanan_rajpoot01" target="blank"><img src="https://img.shields.io/twitter/follow/hanan_rajpoot01?logo=twitter&style=for-the-badge" alt="hanan_rajpoot01" /></a> </p>
