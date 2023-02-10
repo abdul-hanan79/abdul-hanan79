@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Hanan</h1>
 <h3 align="center">A passionate Software Engineer</h3>
-
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-hanan79&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-hanan79" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-hanan79" alt="abdul-hanan79" /></a> </p>
