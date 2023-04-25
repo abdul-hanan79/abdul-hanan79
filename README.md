@@ -1,4 +1,4 @@
-![logo](https://github.com/abdul-hanan79/abdul-hanan79/blob/main/Blue%20and%20Purple%20Futuristic%20Neon%20Line%20Discord%20Profile%20Banner.gif)
+![logo](https://github.com/abdul-hanan79/abdul-hanan79/blob/main/Cover%20Image.gif)
 <h1 align="center">Hi 👋, I'm Abdul Hanan</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
