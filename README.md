@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/hanan_rajpoot01" target="blank"><img src="https://img.shields.io/twitter/follow/hanan_rajpoot01?logo=twitter&style=for-the-badge" alt="hanan_rajpoot01" /></a> </p>
 
-- 🔭 I’m currently working on [Theiconsol](https://theiconsol-in-reactjs.vercel.app/)
+- 🔭 I’m currently working on [CarNex App]
 
 - 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdul-hanan79?tab=repositories](https://github.com/abdul-hanan79?tab=repositories)
 
-- 💬 Ask me about **reactjs,nextjs**
+- 💬 Ask me about **reactjs,nextjs,react-native**
 
 - 📫 How to reach me **abdulhanan3279@gmail.com**
 
