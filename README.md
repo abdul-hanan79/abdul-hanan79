@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **abdulhanan3279@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FUgrtacneqM_H9-fyEto7VSPvYM37npM/view](https://drive.google.com/file/d/1FUgrtacneqM_H9-fyEto7VSPvYM37npM/view)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1FUgrtacneqM_H9-fyEto7VSPvYM37npM/view)
 ](https://drive.google.com/file/d/1372YCHaSiz7VdX2KmL5iTpyMZPSpGOGn/view?usp=sharing)
 - ⚡ Fun fact **I have a secret language that only they and other software engineers can understand😂.**
 
