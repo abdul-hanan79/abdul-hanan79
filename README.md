@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/hanan_rajpoot01" target="blank"><img src="https://img.shields.io/twitter/follow/hanan_rajpoot01?logo=twitter&style=for-the-badge" alt="hanan_rajpoot01" /></a> </p>
 
-- 🔭 I’m currently working on Ecommerence Website
+- 🔭 I’m currently working as a MERN Stack Developer in Zeetecho Private Limited
 
 - 🌱 I’m currently learning **Web 3.0**
 
