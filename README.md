@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as a MERN Stack Developer in Zeetecho Private Limited
 
-- 🌱 I’m currently learning **Web 3.0**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdul-hanan79?tab=repositories](https://github.com/abdul-hanan79?tab=repositories)
 
