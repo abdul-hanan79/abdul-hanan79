@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/hanan_rajpoot01" target="blank"><img src="https://img.shields.io/twitter/follow/hanan_rajpoot01?logo=twitter&style=for-the-badge" alt="hanan_rajpoot01" /></a> </p>
 
-- 🔭 I’m currently working as a Senior MERN Stack Developer & Team Lead in Devontix Solutions
+- 🔭 I’m currently working as a Senior MERN Stack Developer & Team Lead at Devontix Solutions
 
 - 🌱 I’m currently learning **Cloud Computing**
 
