@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as a Senior MERN Stack Developer & Team Lead at Devontix Solutions
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdul-hanan79?tab=repositories](https://github.com/abdul-hanan79?tab=repositories)
 
