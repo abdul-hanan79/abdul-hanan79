@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Agentic AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abdul-hanan79?tab=repositories](https://github.com/abdul-hanan79?tab=repositories)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/abdul-hanan79?tab=repositories" target="_blank">***My All Projects**</a>
 
-- 💬 Ask me about **reactjs,nextjs,react-native**
+- 💬 Ask me about **reactjs,nextjs,react-native,gen-ai,ai-agents**
 
 - 📫 How to reach me **se.abdulhanan@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1AtXGmAbJ95HETEca8saxqFhINpc7H7bw/view?usp=sharing" target="_blank">My Result</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1AtXGmAbJ95HETEca8saxqFhINpc7H7bw/view?usp=sharing" target="_blank">**My Resume**</a>
 - ⚡ Fun fact **I have a secret language  only other software engineers can understand😂.**
 
 <h3 align="left">Connect with me:</h3>
